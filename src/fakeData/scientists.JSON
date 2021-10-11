@@ -1,0 +1,139 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "scientists",
+        "name": "Isaac Newton",
+        "life": "1643-1727",
+        "nationatity": "British",
+        "constant": "Newton's constant",
+        "salary": 3245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/396px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg"
+           
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "scientists",
+        "name": "Leonhard Euler",
+        "life": "1707-1783",
+        "nationatity": "Swiss",
+        "constant": "Euler's number",
+        "salary": 2245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Leonhard_Euler.jpg/370px-Leonhard_Euler.jpg"
+           
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "scientists",
+        "name": "Amedeo Avogadro",
+        "life": "1776-1856",
+        "nationatity": "Italian",
+        "constant": "Avogadro constant",
+        "salary": 4245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amadeo_Avogadro.png/397px-Amadeo_Avogadro.png"
+           
+    },
+    {
+        "key": "B01K1ergIO3QW",
+        "category": "scientists",
+        "name": "Michael Faraday",
+        "life": "1791–1867",
+        "nationatity": "British",
+        "constant": "Faraday constant",
+        "salary": 2245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/M_Faraday_Th_Phillips_oil_1842.jpg/370px-M_Faraday_Th_Phillips_oil_1842.jpg"
+           
+    },
+    {
+        "key": "B01K1ererIO3QW",
+        "category": "scientists",
+        "name": "Joseph Stefan",
+        "life": "1835–1893",
+        "nationatity": "Slovene/Austrian",
+        "constant": "Stefan's constant[2]t",
+        "salary": 1245,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jozef_Stefan.jpg/406px-Jozef_Stefan.jpg"
+           
+    },
+    {
+        "key": "B01K1gtererIO3QW",
+        "category": "scientists",
+        "name": "Ludwig Boltzmann",
+        "life": "1844–1906",
+        "nationatity": "Austrian",
+        "constant": "Boltzmann constant",
+        "salary": 1345,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boltzmann2.jpg/391px-Boltzmann2.jpg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Max Planck",
+        "life": "1858–1947",
+        "nationatity": "German",
+        "constant": "Planck constant",
+        "salary": 1445,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Max_Planck_1933.jpg/387px-Max_Planck_1933.jpg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Johann Jakob Balmer",
+        "life": "1825–1898",
+        "nationatity": "Swiss",
+        "constant": "Balmer's constant",
+        "salary": 1945,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Balmer.jpeg/345px-Balmer.jpeg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Johann  Loschmidt",
+        "life": "1821–1895",
+        "nationatity": "Austrian",
+        "constant": "Loschmidt constant",
+        "salary": 1445,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Johann_Josef_Loschmidt.jpg/343px-Johann_Josef_Loschmidt.jpg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Enrico Fermi",
+        "life": "1901–1954",
+        "nationatity": "Italian/American",
+        "constant": "Fermi coupling constant",
+        "salary": 1145,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/387px-Enrico_Fermi_1943-49.jpg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Joseph John Thomson",
+        "life": "1856–1940",
+        "nationatity": "British",
+        "constant": "Thomson cross section",
+        "salary": 1045,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/307px-J.J_Thomson.jpg"
+           
+    },
+    {
+        "key": "B01K1gtbnererIO3QW",
+        "category": "scientists",
+        "name": "Wilhelm Wien",
+        "life": "1864–1928",
+        "nationatity": "German",
+        "constant": "Wien's constant",
+        "salary": 1755,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wilhelm_Wien_1911.jpg"
+           
+    }
+   
+
+
+
+
+]

@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(99, 189, 192);
+    padding: 6px;
+    text-align: center;
+}
+.header h2{
+    color: rgb(47, 70, 112);
+}
+.header h1{
+    font-size: 40px;
+    font-family: cursive;
+    
+}
